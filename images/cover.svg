@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1400 2100">
+	<title>The cover for the Standard Ebooks edition of The Count of Monte Cristo, by Alexandre Dumas, Auguste Maquet, Pier Angelo Florentino. Translated by Thomas Y. Crowell</title>
+	<style type="text/css">
+		.title-box{
+			fill-opacity: .75;
+		}
+
+		text{
+			fill: #fff;
+			font-family: "League Spartan";
+			letter-spacing: 5px;
+			text-anchor: middle;
+		}
+
+		.title{
+			font-size: 93.56725311px;
+		}
+
+		.author{
+			font-size: 46.7840004px;
+		}
+	</style>
+	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
+	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
+	<text class="title" x="700" y="1775">THE COUNT</text>
+	<text class="title" x="700" y="1875">OF MONTE CRISTO</text>
+	<text class="author" x="700" y="1975">ALEXANDRE DUMAS, AUGUSTE</text>
+	<text class="author" x="700" y="2035">MAQUET, PIER ANGELO FLORENTINO</text>
+</svg>
