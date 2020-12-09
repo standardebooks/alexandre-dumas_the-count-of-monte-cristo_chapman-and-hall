@@ -57,7 +57,9 @@
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1184</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.97298</dc:source>
+		<dc:source>https://books.google.com/books?id=dWlKAAAAYAAJ</dc:source>
+		<dc:source>https://books.google.com/books?id=yGlKAAAAYAAJ</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -80,7 +82,6 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		
 		<dc:contributor id="transcriber-1">An Anonymous Volunteer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Anonymous Volunteer, An</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
