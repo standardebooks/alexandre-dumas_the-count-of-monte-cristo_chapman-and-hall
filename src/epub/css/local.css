@@ -2,24 +2,54 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-/* blockquote in foreign-language */
 blockquote[xml|lang]{
 	font-style: italic;
 }
-/* end of foreign-language blockquote */
 
-/* letters */
-[epub|type~="z3998:letter"] header{
+table{
+	margin: 1em auto;
+}
+
+/* location-specific */
+#chapter-14 td:nth-of-type(1){
+	white-space: nowrap;
+}
+
+#chapter-14 td:nth-of-type(n+1){
+	text-indent: -1em;
+	padding-left: 1.5em;
+}
+
+#chapter-18 blockquote p{
+	text-indent: 0;
+}
+
+#chapter-18 blockquote:nth-of-type(3){
 	text-align: right;
 }
 
+#chapter-106 th:nth-of-type(even){
+	padding-left: 1em;
+}
+
+#chapter-106 td:nth-of-type(odd){
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+#chapter-106 td:nth-of-type(even){
+	padding-left: 1em;
+	text-align: right;
+}
+/* end of location-specific */
+
+/* letters */
 footer{
 	margin-top: 1em;
 	text-align: right;
 }
 
-[epub|type~="z3998:salutation"] + p,
-[epub|type~="z3998:letter"] header + p{
+[epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
 
@@ -41,10 +71,6 @@ footer{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] p + p{
-	margin-top: 1em;
-}
-
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	text-indent: -1em;
@@ -53,5 +79,10 @@ footer{
 
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
+}
+
+p span.i4 {
+	text-indent: -1em;
+	padding-left: 5em;
 }
 /* end poem/verse/song */
