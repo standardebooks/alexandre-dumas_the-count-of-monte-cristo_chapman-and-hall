@@ -25,6 +25,10 @@ q::after{
 	content: "";
 }
 
+blockquote{
+	margin: 1em 2.5em;
+}
+
 h1,
 h2,
 h3,
@@ -35,8 +39,8 @@ hgroup{
 	font-variant: small-caps;
 	hyphens: none;
 	-epub-hyphens: none;
-	page-break-after: avoid;
-	page-break-inside: avoid;
+	break-after: avoid;
+	break-inside: avoid;
 	text-align: center;
 	margin: 3em 0;
 }
@@ -103,6 +107,10 @@ header{
 	text-align: center;
 }
 
+header > * + p{
+	text-indent: 0;
+}
+
 article > header + *,
 section > header + *{
 	margin-top: 3em;
@@ -116,4 +124,11 @@ a[epub|type~="noteref"]{
 
 section[epub|type~="endnotes"] > ol > li{
 	margin: 1em 0;
+}
+
+/* Invert images in dark mode. RMSDK requires a target media as well as a state. */
+@media all and (prefers-color-scheme: dark){
+	img[epub|type~="se:image.color-depth.black-on-transparent"]{
+		filter: invert(100%);
+	}
 }
