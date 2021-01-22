@@ -54,20 +54,21 @@ footer{
 }
 
 [epub|type~="z3998:salutation"],
+[epub|type~="z3998:sender"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
 
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
+	text-align: initial;
 	text-indent: 0;
-	text-align: left;
 }
 /* end of letters */
 
 /* poem/verse/song */
 [epub|type~="z3998:verse"] p{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
