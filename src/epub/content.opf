@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/alexandre-dumas-auguste-maquet-pier-angelo-florentino/the-count-of-monte-cristo/thomas-y-crowell</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/alexandre-dumas/the-count-of-monte-cristo/chapman-and-hall</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -50,32 +50,29 @@
 		<meta property="term" refines="#subject-6">sh2008109300</meta>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1184</dc:source>
-		<dc:source>https://archive.org/details/in.ernet.dli.2015.97298</dc:source>
 		<dc:source>https://books.google.com/books?id=dWlKAAAAYAAJ</dc:source>
 		<dc:source>https://books.google.com/books?id=yGlKAAAAYAAJ</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/alexandre-dumas-auguste-maquet-pier-angelo-florentino_the-count-of-monte-cristo_thomas-y-crowell</meta>
-		<dc:creator id="author">Alexandre Dumas, Auguste Maquet, Pier Angelo Florentino</dc:creator>
-		<meta property="file-as" refines="#author">Florentino, Alexandre Dumas, Auguste Maquet, Pier Angelo</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URL</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">Thomas Y. Crowell</dc:contributor>
-		<meta property="file-as" refines="#translator">Crowell, Thomas Y.</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Thomas_Y._Crowell</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">https://id.loc.gov/authorities/names/n90604398</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/alexandre-dumas_the-count-of-monte-cristo_chapman-and-hall</meta>
+		<dc:creator id="author-1">Alexandre Dumas</dc:creator>
+		<meta property="file-as" refines="#author-1">Dumas, Alexandre</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Alexandre_Dumas</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-1">https://id.loc.gov/authorities/names/n79042162</meta>
+		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
+		<dc:contributor id="translator">Chapman and Hall</dc:contributor>
+		<meta property="file-as" refines="#translator">Chapman and Hall</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Chapman_%26_Hall</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">https://id.loc.gov/authorities/names/n81117573</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
@@ -86,14 +83,14 @@
 		<meta property="file-as" refines="#transcriber-1">Anonymous Volunteer, An</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2"> Dan Muller</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Muller, Dan</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3"> David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.brokenandsaved.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
