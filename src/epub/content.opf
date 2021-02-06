@@ -59,6 +59,13 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1184</dc:source>
 		<dc:source>https://books.google.com/books?id=dWlKAAAAYAAJ</dc:source>
 		<dc:source>https://books.google.com/books?id=yGlKAAAAYAAJ</dc:source>
+		<!-- French scans -->
+		<!-- Vol 1, chapters 1-21 (p. 299); Vol 2, chapters 22-38 -->
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=osu.32435064342918</dc:source>
+		<!-- Vol 3, chapters 39-57 (p. 322); Vol 4, chapters 58-77 -->
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=osu.32435064343015</dc:source>
+		<!-- Vol 5, chapters 78-97 (p. 286); Vol 6, chapters 98-117 -->
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=osu.32435064343114</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
