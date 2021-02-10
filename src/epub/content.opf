@@ -51,22 +51,16 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A man seeks revenge for having been falsely imprisoned years earlier.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Edmond Dantès is a young man about to be made captain of a cargo vessel and marry his sweetheart. But he is arrested at his pre-wedding feast, having been falsely accused of being a Bonapartist. Thrown into the notorious Château d’If prison, he eventually meets an ancient inmate who teaches him language, science, and passes hints of a hidden foretune. When Edmond makes his way out of prison, he plots to reward those who stood by him (his old employer, for one), and to seek revenge on the men who betrayed him: one who wrote the letter that denounced him, one that married his fiancée in his absence, and one who knew Dantès was innocent but stood idly by and did nothing.&lt;/p&gt;
+			&lt;p&gt;The Count of Monte Cristo is another of &lt;a href="https://standardebooks.org/ebooks/alexandre-dumas"&gt;Alexandre Dumas’&lt;/a&gt; thrilling adventure stories, possibly more popular even than &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/alexandre-dumas/the-three-musketeers/william-robson"&gt;The Three Musketeers&lt;/a&gt;&lt;/i&gt;. Originally serialized in a French newspaper over the course of a year-and-a-half, it was enormously popular after its publication in book form, and has never been out of print since. It’s story has also been the source of over forty movies and TV series. It is a timeless tale of adventure, historical drama, romance, revenge, and Eastern mystery.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1184</dc:source>
 		<dc:source>https://books.google.com/books?id=dWlKAAAAYAAJ</dc:source>
 		<dc:source>https://books.google.com/books?id=yGlKAAAAYAAJ</dc:source>
-		<!-- French scans -->
-		<!-- Vol 1, chapters 1-21 (p. 299); Vol 2, chapters 22-38 -->
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=osu.32435064342918</dc:source>
-		<!-- Vol 3, chapters 39-57 (p. 322); Vol 4, chapters 58-77 -->
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=osu.32435064343015</dc:source>
-		<!-- Vol 5, chapters 78-97 (p. 286); Vol 6, chapters 98-117 -->
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=osu.32435064343114</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">The transcription appears to use the text of the scans, but does not match the formatting. In particular, the transcription starts a new paragraph with each speaker. This production leaves the transcription formatting.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo</meta>
