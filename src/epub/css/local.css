@@ -49,6 +49,11 @@ table{
 	padding-left: 1em;
 	text-align: right;
 }
+
+#chapter-106 tr:nth-of-type(5) td:last-of-type{
+	border-bottom: solid 2px;
+}
+
 /* end of location-specific */
 
 /* letters */
