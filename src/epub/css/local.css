@@ -15,17 +15,26 @@ table{
 }
 
 /* location-specific */
-#chapter-14 tr:first-of-type td:first-of-type,
-#chapter-28 tr:first-of-type td:first-of-type{
-	border-right: solid 2px;
-	padding-right: 1em;
-	white-space: nowrap;
+#chapter-14 div,
+#chapter-28 div{
+	display: table;
+	margin: 1em auto;
 }
 
-#chapter-14 td:nth-of-type(n+1),
-#chapter-28 td:nth-of-type(n+1){
+#chapter-14 div p,
+#chapter-28 div p{
 	text-indent: -1em;
-	padding-left: 1.25em;
+	padding-left: 1.5em;
+}
+
+#chapter-14 div p:first-child,
+#chapter-28 div p:first-child{
+	display: table-cell;
+	border-right: solid 2px;
+	padding-right: 1em;
+	text-indent: 0;
+	vertical-align: middle;
+	white-space: nowrap;
 }
 
 #chapter-18 blockquote p{
