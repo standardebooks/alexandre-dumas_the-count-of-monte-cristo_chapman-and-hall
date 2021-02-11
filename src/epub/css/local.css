@@ -15,20 +15,21 @@ table{
 }
 
 /* location-specific */
-#chapter-14 div,
-#chapter-28 div{
+#chapter-14 blockquote,
+#chapter-28 blockquote{
 	display: table;
-	margin: 1em auto;
+	margin-left: auto;
+	margin-right: auto;
 }
 
-#chapter-14 div p,
-#chapter-28 div p{
+#chapter-14 blockquote p,
+#chapter-28 blockquote p{
 	text-indent: -1em;
 	padding-left: 1.5em;
 }
 
-#chapter-14 div p:first-child,
-#chapter-28 div p:first-child{
+#chapter-14 blockquote p:first-child,
+#chapter-28 blockquote p:first-child{
 	display: table-cell;
 	border-right: solid 2px;
 	padding-right: 1em;
