@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/alexandre-dumas/the-count-of-monte-cristo/chapman-and-hall</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-02-11T19:17:29Z</dc:date>
+		<meta property="dcterms:modified">2021-02-11T19:17:29Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -53,23 +53,23 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A man seeks revenge for having been falsely imprisoned years earlier.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Edmond Dantès is a young man about to be made captain of a cargo vessel and marry his sweetheart. But he is arrested at his pre-wedding feast, having been falsely accused of being a Bonapartist. Thrown into the notorious Château d’If prison, he eventually meets an ancient inmate who teaches him language, science, and passes hints of a hidden foretune. When Edmond makes his way out of prison, he plots to reward those who stood by him (his old employer, for one), and to seek revenge on the men who betrayed him: one who wrote the letter that denounced him, one that married his fiancée in his absence, and one who knew Dantès was innocent but stood idly by and did nothing.&lt;/p&gt;
-			&lt;p&gt;The Count of Monte Cristo is another of &lt;a href="https://standardebooks.org/ebooks/alexandre-dumas"&gt;Alexandre Dumas’&lt;/a&gt; thrilling adventure stories, possibly more popular even than &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/alexandre-dumas/the-three-musketeers/william-robson"&gt;The Three Musketeers&lt;/a&gt;&lt;/i&gt;. Originally serialized in a French newspaper over the course of a year-and-a-half, it was enormously popular after its publication in book form, and has never been out of print since. It’s story has also been the source of over forty movies and TV series. It is a timeless tale of adventure, historical drama, romance, revenge, and Eastern mystery.&lt;/p&gt;
+			&lt;p&gt;Edmond Dantès is a young man about to be made captain of a cargo vessel and marry his sweetheart. But he is arrested at his pre-wedding feast, having been falsely accused of being a Bonapartist. Thrown into the notorious Château d’If prison, he eventually meets an ancient inmate who teaches him language, science, and passes hints of a hidden fortune. When Edmond makes his way out of prison, he plots to reward those who stood by him (his old employer, for one), and to seek revenge on the men who betrayed him: one who wrote the letter that denounced him, one that married his fiancée in his absence, and one who knew Dantès was innocent but stood idly by and did nothing.&lt;/p&gt;
+			&lt;p&gt;The Count of Monte Cristo is another of &lt;a href="https://standardebooks.org/ebooks/alexandre-dumas"&gt;Alexandre Dumas’&lt;/a&gt; thrilling adventure stories, possibly more popular even than &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/alexandre-dumas/the-three-musketeers/william-robson"&gt;The Three Musketeers&lt;/a&gt;&lt;/i&gt;. Originally serialized in a French newspaper over the course of a year-and-a-half, it was enormously popular after its publication in book form, and has never been out of print since. Its timeless story of adventure, historical drama, romance, revenge, and Eastern mystery has been the source of over forty movies and TV series.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1184</dc:source>
 		<dc:source>https://books.google.com/books?id=dWlKAAAAYAAJ</dc:source>
 		<dc:source>https://books.google.com/books?id=yGlKAAAAYAAJ</dc:source>
 		<meta property="se:production-notes">The transcription appears to use the text of the scans, but does not match the formatting. In particular, the transcription starts a new paragraph with each speaker. This production leaves the transcription formatting.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">463876</meta>
+		<meta property="se:reading-ease.flesch">69.62</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/alexandre-dumas_the-count-of-monte-cristo_chapman-and-hall</meta>
-		<dc:creator id="author-1">Alexandre Dumas</dc:creator>
-		<meta property="file-as" refines="#author-1">Dumas, Alexandre</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Alexandre_Dumas</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-1">https://id.loc.gov/authorities/names/n79042162</meta>
-		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
+		<dc:creator id="author">Alexandre Dumas</dc:creator>
+		<meta property="file-as" refines="#author">Dumas, Alexandre</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Alexandre_Dumas</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79042162</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Chapman and Hall</dc:contributor>
 		<meta property="file-as" refines="#translator">Chapman and Hall</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Chapman_%26_Hall</meta>
@@ -89,10 +89,10 @@
 		<dc:contributor id="transcriber-1">An Anonymous Volunteer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Anonymous Volunteer, An</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2"> Dan Muller</dc:contributor>
+		<dc:contributor id="transcriber-2">Dan Muller</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Muller, Dan</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3"> David Widger</dc:contributor>
+		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Vince Rice</dc:contributor>
@@ -104,6 +104,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
