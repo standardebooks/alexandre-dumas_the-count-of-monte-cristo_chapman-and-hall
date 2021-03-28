@@ -72,18 +72,18 @@
 		<dc:creator id="author">Alexandre Dumas</dc:creator>
 		<meta property="file-as" refines="#author">Dumas, Alexandre</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Alexandre_Dumas</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79042162</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79042162</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Chapman and Hall</dc:contributor>
 		<meta property="file-as" refines="#translator">Chapman and Hall</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Chapman_%26_Hall</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">https://id.loc.gov/authorities/names/n81117573</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n81117573</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="editor">Thomas Y. Crowell</dc:contributor>
 		<meta property="file-as" refines="#editor">Crowell, Thomas Y.</meta>
 		<meta property="se:name.person.full-name" refines="#editor">Thomas Young Crowell</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Thomas_Y._Crowell</meta>
-		<meta property="se:url.authority.nacoaf" refines="#editor">https://id.loc.gov/authorities/names/n88072126</meta>
+		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n88072126</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Willem van de Velde the Younger</dc:contributor>
 		<meta property="file-as" refines="#artist">van de Velde, Willem (the Younger)</meta>
