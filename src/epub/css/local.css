@@ -24,14 +24,14 @@ table{
 
 #chapter-14 blockquote p,
 #chapter-28 blockquote p{
-	text-indent: -1em;
 	padding-left: 1.5em;
+	text-indent: -1em;
 }
 
 #chapter-14 blockquote p:first-child,
 #chapter-28 blockquote p:first-child{
-	display: table-cell;
 	border-right: solid 2px;
+	display: table-cell;
 	padding-right: 1em;
 	text-indent: 0;
 	vertical-align: middle;
