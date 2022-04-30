@@ -89,8 +89,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Johan_Jongkind</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50038617</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">An Anonymous Volunteer</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Anonymous Volunteer, An</meta>
+		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Dan Muller</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Muller, Dan</meta>
