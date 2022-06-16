@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="chapter-16.xhtml">
-		<ignore>
-			<code>t-042</code>
-			<reason>Matched text is a French name.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
