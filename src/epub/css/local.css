@@ -11,6 +11,7 @@ q{
 }
 
 table{
+	font-variant-numeric: tabular-nums;
 	margin: 1em auto;
 }
 
