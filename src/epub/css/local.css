@@ -31,7 +31,7 @@ table{
 
 #chapter-14 blockquote p:first-child,
 #chapter-28 blockquote p:first-child{
-	border-right: solid 2px;
+	border-right: solid 1px;
 	display: table-cell;
 	padding-right: 1em;
 	text-indent: 0;
@@ -62,7 +62,7 @@ table{
 }
 
 #chapter-106 tr:nth-of-type(5) td:last-of-type{
-	border-bottom: solid 2px;
+	border-bottom: solid 1px;
 }
 /* end of location-specific */
 
