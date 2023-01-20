@@ -36,7 +36,7 @@
 		<dc:subject id="subject-6">Pirates -- Fiction</dc:subject>
 		<dc:subject id="subject-7">Dantès, Edmond (Fictitious character) -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="term" refines="#subject-1">sh85061165</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008110358</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
