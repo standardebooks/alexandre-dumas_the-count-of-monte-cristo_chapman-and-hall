@@ -47,22 +47,22 @@ table{
 	text-align: right;
 }
 
-#chapter-106 th:nth-of-type(even){
+#chapter-106 th{
 	padding-left: 1em;
 }
 
-#chapter-106 td:nth-of-type(odd){
+#chapter-106 td:first-child{
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
-#chapter-106 td:nth-of-type(even){
+#chapter-106 td:last-child{
 	padding-left: 1em;
 	text-align: right;
 }
 
-#chapter-106 tr:nth-of-type(5) td:last-of-type{
-	border-bottom: solid 1px;
+#chapter-106 tfoot td:last-of-type{
+	border-top: solid 1px;
 }
 /* end of location-specific */
 
