@@ -84,10 +84,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Thomas_Y._Crowell</meta>
 		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n88072126</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">ann</meta>
-		<dc:contributor id="artist">William van de Velde the Younger</dc:contributor>
-		<meta property="file-as" refines="#artist">van de Velde, William (the Younger)</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Willem_van_de_Velde_the_Younger</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82056731</meta>
+		<dc:contributor id="artist">Mead Schaeffer</dc:contributor>
+		<meta property="file-as" refines="#artist">Schaeffer, Mead</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Mead_Schaeffer</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no98063312</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
