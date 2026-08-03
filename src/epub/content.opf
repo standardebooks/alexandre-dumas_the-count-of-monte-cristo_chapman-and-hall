@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/alexandre-dumas/the-count-of-monte-cristo/chapman-and-hall</dc:identifier>
 		<dc:date>2021-02-11T19:17:29Z</dc:date>
@@ -55,11 +55,11 @@
 		<meta id="collection-1" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">14</meta>
-		<dc:description id="description">A man seeks revenge for having been falsely imprisoned years earlier.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A man seeks revenge for having been falsely imprisoned years earlier.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Edmond Dantès is a young man about to be made captain of a cargo vessel and marry his sweetheart. But he is arrested at his pre-wedding feast, having been falsely accused of being a Bonapartist. Thrown into the notorious Château d’If prison, he eventually meets an ancient inmate who teaches him language, science, and passes hints of a hidden fortune. When Edmond makes his way out of prison, he plots to reward those who stood by him (his old employer, for one), and to seek revenge on the men who betrayed him: one who wrote the letter that denounced him, one that married his fiancée in his absence, and one who knew Dantès was innocent but stood idly by and did nothing.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Count of Monte Cristo&lt;/i&gt; is another of &lt;a href="https://standardebooks.org/ebooks/alexandre-dumas"&gt;Alexandre Dumas’&lt;/a&gt; thrilling adventure stories, possibly more popular even than &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/alexandre-dumas/the-three-musketeers/william-robson"&gt;The Three Musketeers&lt;/a&gt;&lt;/i&gt;. Originally serialized in a French newspaper over the course of a year-and-a-half, it was enormously popular after its publication in book form, and has never been out of print since. Its timeless story of adventure, historical drama, romance, revenge, and Eastern mystery has been the source of over forty movies and TV series.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1184</dc:source>
 		<dc:source>https://books.google.com/books?id=dWlKAAAAYAAJ</dc:source>
